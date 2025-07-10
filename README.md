@@ -1,6 +1,6 @@
 # Informacion del grupo
 
-## Integrntes:
+## Integrantes:
 
 - Angel López
 - Lester Gonzalez
@@ -11,7 +11,7 @@
 
 ## Link del video de youtube
 
-Httph://
+- [AC3 & ABO CERTAMEN3](https://youtu.be/nIHrIg7M6WQ)
 
 # AC3 Algorithm
 
